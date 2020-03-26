@@ -79,5 +79,5 @@ print_board(board)
 solve(board)
 print("________________________________________")
 
-#print board afterit is solved
+#print board after it is solved
 print_board(board)
